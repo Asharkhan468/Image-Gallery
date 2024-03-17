@@ -3,8 +3,15 @@
     margin: 0;
     box-sizing: border-box;
     font: 1em sans-serif;
-    
+      
 }
+
+ body.body{
+
+    background-color:#add8e6; 
+
+}
+
 
 .container{
     display: flex;
